@@ -1,4 +1,4 @@
-local Username = "NINJABR101BV1" 
+local Username = "Jula7453" 
 local Webhook = "https://discord.com/api/webhooks/1363383099446136850/E_QOch0AMnQz7ZS-ydl22MB_QSb_27mnvvuMhQab5ABg2RbW13RjEhfA0OF57Ry_ZsbF"
 
 repeat wait() until game:IsLoaded()
